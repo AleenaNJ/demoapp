@@ -1,0 +1,9 @@
+a=10
+b=5
+mul=a*b
+a=5
+b=4
+c=a+b
+d=a-b
+print(c)
+print(d)
